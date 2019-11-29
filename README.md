@@ -1,6 +1,6 @@
 Hello, It's Farshad,
 
-I am really excited to inform you that I decided to share my experience and knowledge about some topics that I am realy keen on about them. I update my github account whenever that I can take some times free to share here with you and it is my pleasure.
+I am really excited to inform you that I decided to share my experience and knowledge about some topics that I am really keen on about them. I update my GitHub account whenever that I can take some times free to share here with you and it is my pleasure.
 
 <b>Note: </b> I tried to make some examples from scratch to complex codes here for you, please take a look and let me know if you need more help or help me by sharing your experience with me, then I can update my source code here. Thanks.
 <br/><br/>
