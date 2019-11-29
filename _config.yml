@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
 title: Farshad Zeinalinesaz
+linkedin:
+  zip_url: http://example.com/download.zip
+  another_url: another value
