@@ -9,5 +9,6 @@ I am really excited to inform you that I decided to share my experience and know
 <ul>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_1_chdr_hello_world">linux_character_device_driver_hello_world</a></li>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_2_chdr_reg_unreg_dev">linux_character_device_driver_register_unregister_device</a></li>
+<li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_3_chdr_init_initdata_exit">linux_character_device_driver_init_initdata_exit</a></li>
 </ul>
 
