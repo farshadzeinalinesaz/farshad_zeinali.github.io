@@ -1,0 +1,1 @@
+obj-m		:= ldd_proj_3_chdr_init_initdata_exit.o
