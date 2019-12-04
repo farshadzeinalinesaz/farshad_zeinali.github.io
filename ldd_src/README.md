@@ -1,7 +1,23 @@
-# farshadzeinalinesaz.github.io
 # ldd src
 
-My References:
+#Useful Commands:
+sudo make -C /lib/modules/$(uname -r)/build M=$PWD clean
+sudo make -C /lib/modules/$(uname -r)/build M=$PWD modules
+sudo insmod ./your_driver_name.ko
+sudo insmod ./your_driver_name.ko name="Your string param" count=20 is_formal=0
+sudo insmod ./your_driver_name.ko major=0 usr_name="Your string param" usr_params=10,20
+sudo rmmod your_driver_name
+lsmod
+tail -f /var/log/syslog
+cat /proc/devices
+sudo ls -l /sys/module/your_driver_name/parameters/
+sudo ls -l /sys/module/your_driver_name/parameters/param_name
+sudo cat /sys/module/your_driver_name/parameters/param_name
+echo 10 | sudo tee /sys/module/your_driver_name/parameters/param_name
+
+
+
+#My References:
 
 https://www.kernel.org/doc/Documentation/ <br />
 https://lwn.net/Kernel/LDD3/ <br />
