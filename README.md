@@ -12,8 +12,6 @@ Hello, It's Farshad,<br/>
 <li>Kotlin programming</li>
 </ul>
 
-<br/>
-
 <h3>SOFT SKILLS</h3>
 <ul>
 <li>Team player with leadership ability</li>
@@ -22,10 +20,9 @@ Hello, It's Farshad,<br/>
 <li>Proven multitasking abilities</li>
 <li>Risk management</li>
 </ul>
-<br/>
 *Would you like to know more about me? Please check my LinkedIn account.
 
-<br/><br/>
+<br/>
 
 It's my pleasure to inform you that I decided to share my experience and knowledge about some topics that I am really keen on about them. I update my GitHub account frequently.
 
