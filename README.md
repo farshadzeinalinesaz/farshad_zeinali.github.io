@@ -24,6 +24,7 @@ It's my pleasure to inform you that I decided to share my experience and knowled
 <ul>
 <li>Linux Kernel (device driver programming)</li>
 <li>Machine Learning (Python programming)</li>
+<li>Linux operating system</li>
 <li>Android (SDK,NDK)</li>
 <li>C programming</li>
 <li>Java programming</li>
