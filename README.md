@@ -2,7 +2,7 @@ Hello, It's Farshad,<br/>
 <b>Email:</b>		<a href="mailto:fzcomputerscience@gmail.com">fzcomputerscience@gmail.com</a><br/>
 <b>LinkedIn:</b>	<a href="https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/" target="_blank">https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/</a><br/><br/>
 
-<h3>SKILLS</h3>
+<h3>HARD SKILLS</h3>
 <ul>
 <li>Linux Kernel (device driver programming)</li>
 <li>Machine Learning (Python programming)</li>
@@ -11,6 +11,19 @@ Hello, It's Farshad,<br/>
 <li>Java programming</li>
 <li>Kotlin programming</li>
 </ul>
+
+<br/>
+
+<h3>SOFT SKILLS</h3>
+<ul>
+<li>Team player with leadership ability</li>
+<li>Time management</li>
+<li>Having a positive Can-do attitude</li>
+<li>Proven multitasking abilities</li>
+<li>Risk management</li>
+</ul>
+<br/>
+Would you like to know more about me? Please check my LinkedIn account.
 
 <br/><br/>
 
