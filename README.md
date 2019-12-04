@@ -4,6 +4,7 @@ Hello, It's Farshad,<br/>
 <a href="#my_profile">Would you like you see my profile?</a>
 <br/><br/>
 
+<h2>MY ACTIVITIES</h2>
 It's my pleasure to inform you that I decided to share my experience and knowledge about some topics that I am really keen on about them. I update my GitHub account frequently.
 
 <b>Note: </b> I make some examples from scratch to complex codes here for you step by step and by each example will put more technical concepts regarding the under discussion topic. Please take a look and let me know if you need more help or help me by sharing your experience with me, then I can update my source code here. Thanks.
