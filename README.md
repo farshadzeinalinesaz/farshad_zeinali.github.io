@@ -23,11 +23,11 @@ Hello, It's Farshad,<br/>
 <li>Risk management</li>
 </ul>
 <br/>
-Would you like to know more about me? Please check my LinkedIn account.
+*Would you like to know more about me? Please check my LinkedIn account.
 
 <br/><br/>
 
-I am really excited to inform you that I decided to share my experience and knowledge about some topics that I am really keen on about them. I update my GitHub account whenever that I can take some time free to share here with you and it is my pleasure.
+It's my pleasure to inform you that I decided to share my experience and knowledge about some topics that I am really keen on about them. I update my GitHub account frequently.
 
 <b>Note: </b> I make some examples from scratch to complex codes here for you step by step and by each example will put more technical concepts regarding the under discussion topic. Please take a look and let me know if you need more help or help me by sharing your experience with me, then I can update my source code here. Thanks.
 <br/><br/>
