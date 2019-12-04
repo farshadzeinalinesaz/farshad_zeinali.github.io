@@ -1,6 +1,6 @@
 Hello, It's Farshad,
-<b>Email:</b>		<a href="fzcomputerscience@gmail.com">fzcomputerscience@gmail.com</a>
-<b>LinkedIn:</b>	<a href="https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/">https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/</a>
+<b>Email:</b>		<a href="fzcomputerscience@gmail.com">fzcomputerscience@gmail.com</a><br/>
+<b>LinkedIn:</b>	<a href="https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/">https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/</a><br/>
 
 <br/><br/>
 
@@ -8,9 +8,10 @@ Hello, It's Farshad,
 <ul>
 <li>Linux Kernel (device driver programming)</li>
 <li>Machine Learning (Python programming)</li>
+<li>Android (SDK,NDK)</li>
 <li>C programming</li>
 <li>Java programming</li>
-<li>Android (SDK,NDK)</li>
+<li>Kotlin programming</li>
 </ul>
 
 <br/><br/>
