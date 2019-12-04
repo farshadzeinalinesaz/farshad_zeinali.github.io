@@ -1,8 +1,6 @@
-Hello, It's Farshad,
+Hello, It's Farshad,<br/>
 <b>Email:</b>		<a href="fzcomputerscience@gmail.com">fzcomputerscience@gmail.com</a><br/>
-<b>LinkedIn:</b>	<a href="https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/">https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/</a><br/>
-
-<br/><br/>
+<b>LinkedIn:</b>	<a href="https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/">https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/</a><br/><br/>
 
 <h3>SKILLS</h3>
 <ul>
