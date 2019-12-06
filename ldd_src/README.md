@@ -1,6 +1,6 @@
 # ldd src
 
-#Useful Commands:
+<u3>Useful Commands:</h3>
 <ul>
 <li>sudo make -C /lib/modules/$(uname -r)/build M=$PWD clean</li>
 <li>sudo make -C /lib/modules/$(uname -r)/build M=$PWD modules</li>
@@ -19,7 +19,7 @@
 
 
 
-#My References:
+<h3>My References:</h3>
 
 https://www.kernel.org/doc/Documentation/ <br />
 https://lwn.net/Kernel/LDD3/ <br />
