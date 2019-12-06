@@ -16,6 +16,7 @@ It's my pleasure to inform you that I decided to share my experience and knowled
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_2_chdr_reg_unreg_dev">linux_character_device_driver_register_unregister_device</a></li>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_3_chdr_init_initdata_exit">linux_character_device_driver_init_initdata_exit</a></li>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_4_chdr_input_params">linux_character_device_driver_input_params</a></li>
+<li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_5_chdr_goto_error_handling">linux_character_device_driver_goto_error_handling</a></li>
 </ul>
 
 <br/><br/>
