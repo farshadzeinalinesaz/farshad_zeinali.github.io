@@ -45,4 +45,5 @@ https://www.youtube.com/watch?v=sen-FlxJu_M&list=PL1zwAXk5ZrWKxLyCq73lzFn3oSLruM
 https://www.youtube.com/watch?v=_k6zg5mLDXk&list=PL1zwAXk5ZrWKxLyCq73lzFn3oSLruM750&index=9 <br />
 https://www.youtube.com/watch?v=3ccMOOLS6xY&list=PL1zwAXk5ZrWKxLyCq73lzFn3oSLruM750&index=10 <br />
 https://linux-kernel-labs.github.io/master/labs/device_drivers.html <br />
+http://opensourceforu.com/tag/linux-device-drivers-series/<br />
 
