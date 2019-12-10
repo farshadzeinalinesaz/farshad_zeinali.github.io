@@ -40,12 +40,12 @@ Performing as a senior software developer for more than 6 years, technical manag
 
 <h3>SOFT SKILLS</h3>
 <ul>
-<li>Team player with leadership ability</li>
-<li>Time management</li>
+<li>Teamwork with leadership ability</li>
+<li>Work Ethic</li>
 <li>Having a positive Can-do attitude</li>
-<li>Proven multitasking abilities</li>
-<li>Risk management</li>
+<li>Communication</li>
+<li>Critical Thinking</li>
 <li>Adaptability</li>
-<li>Interpersonal skills</li>
+<li>Motivating</li>
 </ul>
 *Would you like to know more about me? Please check my <a href="https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/" target="_blank">LinkedIn</a> account.
