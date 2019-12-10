@@ -1,7 +1,7 @@
 Hello, It's Farshad,<br/>
 <b>Email:</b>		<a href="mailto:fzcomputerscience@gmail.com">fzcomputerscience@gmail.com</a><br/>
 <b>LinkedIn:</b>	<a href="https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/" target="_blank">https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/</a><br/><br/>
-<a href="#my_profile">Would you like you see my profile?</a>
+<a href="#my_profile">Would you like to see my profile?</a>
 <br/><br/>
 
 <h2>MY ACTIVITIES</h2>
