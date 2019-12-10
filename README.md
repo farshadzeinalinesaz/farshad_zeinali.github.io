@@ -6,9 +6,12 @@ Hello, It's Farshad,<br/>
 
 <h2>MY ACTIVITIES</h2>
 I am sharing my experience and knowledge about some topics that I am really keen on about them here for anyone that is interesting in those topics and it is my pleasure. <br/>
-I usually update my GitHub account frequently.
 
-<b>Note: </b> I make some examples from scratch to complex codes here for you step by step and by each example will put more technical concepts regarding the under discussion topic. Please take a look and let me know if you need more help or help me by sharing your experience with me, then I can update my source code here. Thanks.
+<b>Note: </b> I make some examples from scratch to complex codes here for you step by step and by each example will put more technical concepts regarding the under discussion topic. Please take a look and let me know if you need more help or help me by sharing your experience with me, then I can update my source code here.
+
+Also, know that for different topics I use different references that I list them in my git repository separately and I update those lists whenever that I am using a new reference. You can see my reference list in the README file in each repository.
+
+<b>Note: </b>I usually update my GitHub account frequently.
 <br/><br/>
 
 <a href="https://github.com/farshadzeinalinesaz/index">Let's start with Linux Device Driver Programming.</a>
