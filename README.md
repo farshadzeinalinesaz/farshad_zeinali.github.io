@@ -26,6 +26,7 @@ Also, know that for different topics I use different references that I list them
 
 <br/><br/>
 <h2 id="my_profile">MY PROFILE</h2>
+Performing as a senior software developer for more than 6 years, technical manager for more than 3 years in various software companies, and working as a teacher for more than 5 years have helped me to develop strong hard skills, soft skills, and project management.  I have accomplished this by working closely with others to complete complex and high-quality projects on time.
 <h3>HARD SKILLS</h3>
 <ul>
 <li>Linux Kernel (device driver programming)</li>
