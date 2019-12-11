@@ -1,8 +1,7 @@
 
 #define DRIVER_NAME "ldd_proj_6_chdr_fops_1"
-#define PDEBUG(fmt,args...) printk(KERN_DEBUG"%s:"fmt,DRIVER_NAME, ##args)
-#define PERR(fmt,args...) printk(KERN_ERR"%s:"fmt,DRIVER_NAME,##args)
-#define PINFO(fmt,args...) printk(KERN_INFO"%s:"fmt,DRIVER_NAME, ##args)
+#define PDEBUG(fmt,args...) printk(KERN_ALERT" "fmt, ##args)
+#define PINFO(fmt,args...) printk(KERN_ALERT" "fmt, ##args)
 #include<linux/kernel.h>
 #include<linux/fs.h>
 #include<linux/init.h>
