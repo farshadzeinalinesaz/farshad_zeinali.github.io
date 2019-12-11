@@ -26,6 +26,7 @@ Also, know that for different topics I use different references that I list them
 
 <br/><br/>
 <h2 id="my_profile">MY PROFILE</h2>
+Performing as a senior software developer for more than 6 years, technical manager for more than 3 years in various software companies, and working as a teacher for more than 5 years have helped me to develop strong hard skills, soft skills, and project management.  I have accomplished this by working closely with others to complete complex and high-quality projects on time.
 <h3>HARD SKILLS</h3>
 <ul>
 <li>Linux Kernel (device driver programming)</li>
@@ -39,12 +40,12 @@ Also, know that for different topics I use different references that I list them
 
 <h3>SOFT SKILLS</h3>
 <ul>
-<li>Team player with leadership ability</li>
-<li>Time management</li>
+<li>Teamwork with leadership ability</li>
+<li>Work Ethic</li>
 <li>Having a positive Can-do attitude</li>
-<li>Proven multitasking abilities</li>
-<li>Risk management</li>
+<li>Communication</li>
+<li>Critical Thinking</li>
 <li>Adaptability</li>
-<li>Interpersonal skills</li>
+<li>Motivating</li>
 </ul>
 *Would you like to know more about me? Please check my <a href="https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/" target="_blank">LinkedIn</a> account.
