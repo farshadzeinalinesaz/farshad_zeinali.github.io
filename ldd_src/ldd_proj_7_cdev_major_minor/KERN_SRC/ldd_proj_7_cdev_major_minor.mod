@@ -1,0 +1,2 @@
+/home/farshad/Documents/Source/Linux/ldd_src/index/ldd_src/ldd_proj_7_cdev_major_minor/KERN_SRC/ldd_proj_7_cdev_major_minor.o
+
