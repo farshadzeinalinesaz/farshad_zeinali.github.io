@@ -1,7 +1,7 @@
 Hello, It's Farshad,<br/>
 <b>Email:</b>		<a href="mailto:fzcomputerscience@gmail.com">fzcomputerscience@gmail.com</a><br/>
-<b>LinkedIn:</b>	<a href="https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/" target="_blank">https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/</a><br/><br/>
-<h3><a href="#my_profile">MY PROFILE</a></h3>
+<b>LinkedIn:</b>	<a href="https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/" target="_blank">https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/</a>
+<h3><a href="#my_profile">#SEE MY PROFILE</a></h3>
 
 <br/><br/>
 
