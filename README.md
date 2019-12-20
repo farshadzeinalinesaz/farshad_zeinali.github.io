@@ -50,4 +50,4 @@ Performing as a senior software developer for more than 6 years, technical manag
 <li>Adaptability</li>
 <li>Motivating</li>
 </ul>
-<p>*Would you like to know more about me? Please check my <a href="https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/" target="_blank">LinkedIn</a> account.</p>
+<p><b>*Would you like to know more about me? Please check my <a href="https://www.linkedin.com/in/farshad-zeinalinesaz-a772818b/" target="_blank">LinkedIn</a> account.</b></p>
