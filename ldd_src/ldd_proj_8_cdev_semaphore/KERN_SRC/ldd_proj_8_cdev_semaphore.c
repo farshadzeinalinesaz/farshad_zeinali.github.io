@@ -118,8 +118,7 @@ ssize_t device_write(struct file *filp, const char __user *buffer, size_t size,l
 	 * if the return value of down_interruptible() is non-zero it means that it was interrupted.
 	 */
 	if (down_interruptible(&device_private_data->dev_sem)) {
-		ret_val= -ERESTARTSYS;
-		goto OUTPUT;
+		return -ERESTARTSYS;
 	}
 	int length = min(BUFFER_LEN- *offset,size);
 	if (length <= 0) {
