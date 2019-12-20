@@ -24,6 +24,7 @@ Also, know that for different topics I use different references that I list them
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_5_chdr_goto_error_handling">linux_character_device_driver_goto_error_handling</a></li>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_6_chdr_fops_1">linux_character_device_file_operations_part1</a></li>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_7_cdev_major_minor">linux_character_device_cdev_major_minor</a></li>
+<li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_8_cdev_semaphore">linux_character_device_cdev_semaphore</a></li>
 </ul>
 
 <br/><br/>
