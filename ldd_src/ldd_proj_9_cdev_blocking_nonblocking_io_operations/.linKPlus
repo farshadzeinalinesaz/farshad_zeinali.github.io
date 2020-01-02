@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<General-info>
+    <Driver-name>ldd_proj_9_cdev_blocking_nonblocking_io_operations</Driver-name>
+    <Toolchain>Linux GCC</Toolchain>
+    <Architecture>x86_64</Architecture>
+    <hostMachineKernel>true</hostMachineKernel>
+    <Kernel-Version>/usr/src/linux-headers-5.3.0-24-generic</Kernel-Version>
+    <Licence>GPL</Licence>
+    <Author-name>Farshad</Author-name>
+    <location>/home/farshad/c-workspace</location>
+    <wizardType>false</wizardType>
+    <wizardTypeInfo>false</wizardTypeInfo>
+</General-info>

@@ -14,7 +14,9 @@
 <li>sudo ls -l /sys/module/your_driver_name/parameters/</li>
 <li>sudo ls -l /sys/module/your_driver_name/parameters/param_name</li>
 <li>sudo cat /sys/module/your_driver_name/parameters/param_name</li>
-<li>echo 10 | sudo tee /sys/module/your_driver_name/parameters/param_name</li>
+<li>echo 10 | sudo tee /sys/module/your_driver_name/parameters/param_name</li><br/>
+<li>sudo mknod -m 666 /dev/driver_name c major minor</li>
+<li>sudo rm /dev/driver_name</li>
 </ul>
 
 
