@@ -36,7 +36,7 @@ Performing as a senior software developer for more than 6 years, technical manag
 <li>Linux Kernel (device driver programming)</li>
 <li>Machine Learning (Python programming)</li>
 <li>Linux operating system</li>
-<li>Android (SDK,NDK)</li>
+<li>Android (SDK,NDK,AOSP)</li>
 <li>C programming</li>
 <li>Java programming</li>
 <li>Kotlin programming</li>
