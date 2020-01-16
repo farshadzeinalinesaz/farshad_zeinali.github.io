@@ -1,3 +1,6 @@
+/*
+REFERENCE: https://www.youtube.com/watch?v=UP6B324Qh5k&list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg&index=85
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
