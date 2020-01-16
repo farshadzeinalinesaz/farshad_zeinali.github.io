@@ -5,7 +5,6 @@ Author			:		FARSHAD
 License			:		GPL
 Description		:		LINUX DEVICE DRIVER PROJECT
 REFERENCES		:		https://lwn.net/Kernel/LDD3/
-					https://www.youtube.com/watch?v=UP6B324Qh5k&list=PLypxmOPCOkHXbJhUgjRaV2pD9MJkIArhg&index=85
 ===============================================================================
 */
 
