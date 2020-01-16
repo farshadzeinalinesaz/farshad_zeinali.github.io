@@ -26,6 +26,7 @@ Also, know that for different topics I use different references that I list them
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_7_cdev_major_minor">linux_character_device_cdev_major_minor</a></li>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_8_cdev_semaphore">linux_character_device_cdev_semaphore</a></li>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_9_cdev_blocking_nonblocking_io_operations">linux_character_device_blocking_nonblocking_io</a></li>
+<li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_10_cdev_poll_select_epoll">linux_character_device_poll_select_epoll</a></li>
 </ul>
 
 <br/><br/>
