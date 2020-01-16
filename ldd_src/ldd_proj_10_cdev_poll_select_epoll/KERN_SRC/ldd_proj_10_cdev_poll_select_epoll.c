@@ -4,7 +4,7 @@ Driver Name		:		ldd_proj_10_cdev_poll_select_epoll
 Author			:		FARSHAD
 License			:		GPL
 Description		:		LINUX DEVICE DRIVER PROJECT
-REFERENCES		:		https://lwn.net/Kernel/LDD3/
+REFERENCE		:		https://lwn.net/Kernel/LDD3/
 ===============================================================================
 */
 
