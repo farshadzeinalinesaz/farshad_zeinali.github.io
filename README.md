@@ -35,12 +35,13 @@ Performing as a senior software developer for more than 6 years, technical manag
 <h3>HARD SKILLS</h3>
 <ul>
 <li>Linux Kernel (device driver programming)</li>
-<li>Machine Learning (Python programming)</li>
+<li>Machine Learning (Python)</li>
 <li>Linux operating system</li>
 <li>Android (SDK,NDK,AOSP)</li>
-<li>C programming</li>
-<li>Java programming</li>
-<li>Kotlin programming</li>
+<li>C</li>
+<li>Java</li>
+<li>Kotlin</li>
+<li>Shell script</li>
 </ul>
 
 <h3>SOFT SKILLS</h3>
