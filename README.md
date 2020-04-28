@@ -16,12 +16,14 @@ Also, know that for different topics I use different references that I list them
 <br/><br/>
 
 <a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code">
-  Let's start with Algorithm and Python Code
+  1) Let's start with Algorithm and Python Code
 </a>
+<p>
 I am still working on this part and thinking and working on different algorithms and how to implement them is one of my faivorite areas that I really enjoy to spend my time to work on that.
-Please note I am using different references and I will mention all those references in my gitHub repo.
-<br/>
-<a href="https://github.com/farshadzeinalinesaz/index">Linux Device Driver Programming.</a>
+Please note I am using different references and I will mention all those references in my github repo.
+</p>
+<br/><br/>
+<a href="https://github.com/farshadzeinalinesaz/index">2) Linux Device Driver Programming.</a>
 <ul>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_1_chdr_hello_world">linux_character_device_driver_hello_world</a></li>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_2_chdr_reg_unreg_dev">linux_character_device_driver_register_unregister_device</a></li>
