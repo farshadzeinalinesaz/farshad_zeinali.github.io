@@ -18,6 +18,11 @@ Also, know that for different topics I use different references that I list them
 <a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code">
   1) Let's start with Algorithm and Python Code
 </a>
+<ul>
+  <li><a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code/blob/master/Recursive/peasantAlgorithm.py">Peasant Algorithm</a></li>
+  <li><a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code/blob/master/Recursive/Factorial.py">Factorial Algorithm</a></li>
+  <li><a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code/blob/master/Recursive/MergeSort.py">Merge Sort Algorithm</a></li>
+</ul>  
 <p>
 I am still working on this part and thinking and working on different algorithms and how to implement them is one of my favorite areas that I really enjoy spending my time working on that. Please note I am using different references and I will mention all those references in my Github repo. 
 </p>
