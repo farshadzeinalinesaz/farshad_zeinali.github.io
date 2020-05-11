@@ -46,13 +46,12 @@ I am still working on this part and thinking and working on different algorithms
 Performing as a senior software developer for more than 6 years, technical manager for more than 3 years in various software companies, and working as a teacher for more than 5 years have helped me to develop strong hard skills, soft skills, and project management.  I have accomplished this by working closely with others to complete complex and high-quality projects on time.
 <h3>HARD SKILLS</h3>
 <ul>
+<li>Android (SDK,NDK,AOSP)</li>
+<li>Android (Java,Kotlin,Flutter)</li>
 <li>Linux Kernel (device driver programming)</li>
 <li>Machine Learning (Python)</li>
 <li>Linux operating system</li>
-<li>Android (SDK,NDK,AOSP)</li>
 <li>C</li>
-<li>Java</li>
-<li>Kotlin</li>
 <li>Shell script</li>
 </ul>
 
