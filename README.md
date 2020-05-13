@@ -12,8 +12,11 @@ I am sharing my experience and knowledge about some topics that I am really keen
 
 Also, know that for different topics I use different references that I list them in my git repository separately and I update those lists whenever that I am using a new reference. You can see my reference list in the README file in each repository.
 
-<b>Note: </b>I usually update my GitHub account frequently.
-<br/><br/>
+<b>Note: </b>I usually update my GitHub account frequently.<br/>
+<br/>
+<p>
+I am still working on this part and thinking and working on different algorithms and how to implement them is one of my favorite areas that I really enjoy spending my time working on that. Please note I am using different references and I will mention all those references in my Github repo. 
+</p>
 
 <a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code">
   1) Let's start with Algorithm and Python Code
@@ -22,12 +25,14 @@ Also, know that for different topics I use different references that I list them
   <li><a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code/blob/master/Recursive/peasantAlgorithm.py">Peasant Algorithm</a></li>
   <li><a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code/blob/master/Recursive/Factorial.py">Factorial Algorithm</a></li>
   <li><a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code/blob/master/Recursive/MergeSort.py">Merge Sort Algorithm</a></li>
-</ul>  
-<p>
-I am still working on this part and thinking and working on different algorithms and how to implement them is one of my favorite areas that I really enjoy spending my time working on that. Please note I am using different references and I will mention all those references in my Github repo. 
-</p>
+</ul> 
 <br/><br/>
-<a href="https://github.com/farshadzeinalinesaz/index">2) Linux Device Driver Programming.</a>
+2) Flutter Platform
+<ul>
+  <li href="https://github.com/farshadzeinalinesaz/FlutterLogin">Flutter Login Application</li>
+</ul>
+<br/><br/>
+<a href="https://github.com/farshadzeinalinesaz/index">3) Linux Device Driver Programming.</a>
 <ul>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_1_chdr_hello_world">linux_character_device_driver_hello_world</a></li>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_2_chdr_reg_unreg_dev">linux_character_device_driver_register_unregister_device</a></li>
