@@ -1,19 +1,3 @@
-Hello, It's Farshad,<br/>
-<br/><br/>
-
-<h2>MY ACTIVITIES</h2>
-I am sharing my experience and knowledge about some topics that I am really keen on about them here for anyone that is interesting in those topics and it is my pleasure. <br/>
-
-<b>Note: </b> I make some examples from scratch to complex codes here for you step by step and by each example will put more technical concepts regarding the under discussion topic. Please take a look and let me know if you need more help or help me by sharing your experience, then I can update my source code here.
-
-Also, know that for different topics I use different references that I list them in my git repository separately and I update those lists whenever that I am using a new reference. You can see my reference list in the README file in each repository.
-
-<b>Note: </b>I usually update my GitHub account frequently.<br/>
-<br/>
-<p>
-I am still working on this part and thinking and working on different algorithms and how to implement them is one of my favorite areas that I really enjoy spending my time working on that. Please note I am using different references and I will mention all those references in my Github repo. 
-</p>
-
 <a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code">
   1) Let's start with Algorithm and Python Code
 </a>
@@ -42,30 +26,6 @@ I am still working on this part and thinking and working on different algorithms
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_10_cdev_poll_select_epoll">linux_character_device_poll_select_epoll</a></li>
 </ul>
 
-<br/><br/>
-<h2 id="my_profile">MY PROFILE</h2>
-Performing as a senior software developer for more than 6 years, technical manager for more than 3 years in various software companies, and working as a teacher for more than 5 years have helped me to develop strong hard skills, soft skills, and project management.  I have accomplished this by working closely with others to complete complex and high-quality projects on time.
-<h3>HARD SKILLS</h3>
-<ul>
-<li>Android (SDK,NDK,AOSP)</li>
-<li>Android (Java,Kotlin,Flutter)</li>
-<li>Linux Kernel (device driver programming)</li>
-<li>Machine Learning (Python)</li>
-<li>Linux operating system</li>
-<li>C</li>
-<li>Shell script</li>
-</ul>
-
-<h3>SOFT SKILLS</h3>
-<ul>
-<li>Teamwork with leadership ability</li>
-<li>Work Ethic</li>
-<li>Having a positive Can-do attitude</li>
-<li>Communication</li>
-<li>Critical Thinking</li>
-<li>Adaptability</li>
-<li>Motivating</li>
-</ul>
 <p>
 <b>Email:</b>		<a href="mailto:farshad.zeinaly@gmail.com">farshad.zeinaly@gmail.com</a><br/>
 <b>LinkedIn:</b>	<a href="www.linkedin.com/in/farshad-zeinalinesaz" target="_blank">www.linkedin.com/in/farshad-zeinalinesaz</a>
