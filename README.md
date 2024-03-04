@@ -6,12 +6,12 @@
   <li><a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code/blob/master/Recursive/Factorial.py">Factorial Algorithm</a></li>
   <li><a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code/blob/master/Recursive/MergeSort.py">Merge Sort Algorithm</a></li>
 </ul> 
-<br/><br/>
+<br/><
 2) Hybrid Application Development (Flutter Platform)
 <ul>
   <li> <a href="https://github.com/farshadzeinalinesaz/FlutterLogin">Flutter Login Application</a></li>
 </ul>
-<br/><br/>
+<br/>
 <a href="https://github.com/farshadzeinalinesaz/index">3) Linux Device Driver Programming.</a>
 <ul>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_1_chdr_hello_world">linux_character_device_driver_hello_world</a></li>
