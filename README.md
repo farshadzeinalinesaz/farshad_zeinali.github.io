@@ -6,7 +6,7 @@
   <li><a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code/blob/master/Recursive/Factorial.py">Factorial Algorithm</a></li>
   <li><a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code/blob/master/Recursive/MergeSort.py">Merge Sort Algorithm</a></li>
 </ul> 
-<br/><
+<br/>
 2) Hybrid Application Development (Flutter Platform)
 <ul>
   <li> <a href="https://github.com/farshadzeinalinesaz/FlutterLogin">Flutter Login Application</a></li>
