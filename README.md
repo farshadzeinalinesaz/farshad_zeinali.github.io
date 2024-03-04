@@ -7,12 +7,7 @@
   <li><a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code/blob/master/Recursive/MergeSort.py">Merge Sort Algorithm</a></li>
 </ul> 
 <br/>
-2) Hybrid Application Development (Flutter Platform)
-<ul>
-  <li> <a href="https://github.com/farshadzeinalinesaz/FlutterLogin">Flutter Login Application</a></li>
-</ul>
-<br/>
-<a href="https://github.com/farshadzeinalinesaz/index">3) Linux Device Driver Programming.</a>
+<a href="https://github.com/farshadzeinalinesaz/index">2) Linux Device Driver Programming.</a>
 <ul>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_1_chdr_hello_world">linux_character_device_driver_hello_world</a></li>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_2_chdr_reg_unreg_dev">linux_character_device_driver_register_unregister_device</a></li>
@@ -25,3 +20,8 @@
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_9_cdev_blocking_nonblocking_io_operations">linux_character_device_blocking_nonblocking_io</a></li>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_10_cdev_poll_select_epoll">linux_character_device_poll_select_epoll</a></li>
 </ul>
+3) Hybrid Application Development (Flutter Platform)
+<ul>
+  <li> <a href="https://github.com/farshadzeinalinesaz/FlutterLogin">Flutter Login Application</a></li>
+</ul>
+<br/>
