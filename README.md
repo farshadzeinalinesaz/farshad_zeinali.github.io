@@ -1,8 +1,4 @@
 Hello, It's Farshad,<br/>
-<b>Email:</b>		<a href="mailto:farshad.zeinaly@gmail.com">farshad.zeinaly@gmail.com</a><br/>
-<b>LinkedIn:</b>	<a href="www.linkedin.com/in/farshad-zeinalinesaz" target="_blank">www.linkedin.com/in/farshad-zeinalinesaz</a>
-<h3><a href="#my_profile">#SEE MY PROFILE</a></h3>
-
 <br/><br/>
 
 <h2>MY ACTIVITIES</h2>
@@ -70,4 +66,7 @@ Performing as a senior software developer for more than 6 years, technical manag
 <li>Adaptability</li>
 <li>Motivating</li>
 </ul>
-<p><b>Please check my <a href="www.linkedin.com/in/farshad-zeinalinesaz" target="_blank">LinkedIn</a> account for more information.</b></p>
+<p>
+<b>Email:</b>		<a href="mailto:farshad.zeinaly@gmail.com">farshad.zeinaly@gmail.com</a><br/>
+<b>LinkedIn:</b>	<a href="www.linkedin.com/in/farshad-zeinalinesaz" target="_blank">www.linkedin.com/in/farshad-zeinalinesaz</a>
+</p>
