@@ -25,8 +25,3 @@
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_9_cdev_blocking_nonblocking_io_operations">linux_character_device_blocking_nonblocking_io</a></li>
 <li><a href="https://github.com/farshadzeinalinesaz/index/tree/master/ldd_src/ldd_proj_10_cdev_poll_select_epoll">linux_character_device_poll_select_epoll</a></li>
 </ul>
-
-<p>
-<b>Email:</b>		<a href="mailto:farshad.zeinaly@gmail.com">farshad.zeinaly@gmail.com</a><br/>
-<b>LinkedIn:</b>	<a href="www.linkedin.com/in/farshad-zeinalinesaz" target="_blank">www.linkedin.com/in/farshad-zeinalinesaz</a>
-</p>
