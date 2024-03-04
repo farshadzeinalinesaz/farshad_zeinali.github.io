@@ -1,5 +1,5 @@
 <a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code">
-  1) Let's start with Algorithm and Python Code
+  1) Algorithms with Python programming
 </a>
 <ul>
   <li><a href="https://github.com/farshadzeinalinesaz/Algorithm-Concepts-Python-Code/blob/master/Recursive/peasantAlgorithm.py">Peasant Algorithm</a></li>
